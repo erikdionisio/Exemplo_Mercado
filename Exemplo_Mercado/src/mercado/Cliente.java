@@ -1,5 +1,5 @@
 package mercado;
 
-public class cliente {
+public class Cliente {
     
 }
